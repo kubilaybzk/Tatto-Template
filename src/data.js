@@ -27,12 +27,12 @@ export const headerData = {
 
 export const navData = {
   items: [
-    { href: '/', name: 'Home' },
-    { href: '/', name: 'About' },
-    { href: '/', name: 'Gallery' },
-    { href: '/', name: 'Interview' },
+    { href: '/', name: 'Ana Sayfa' },
+    { href: '/', name: 'Hakkımda' },
+    { href: '/', name: 'Galeri' },
+    { href: '/', name: 'Geri Dönüşler' },
     { href: '/', name: 'Articles' },
-    { href: '/', name: 'Contact' },
+    { href: '/', name: 'iletişim' },
   ],
 };
 
@@ -45,7 +45,7 @@ export const socialData = [
 ];
 
 export const heroData = {
-  title: 'I’m Void Sir.',
+  title: 'Ben Muhammet Uçak.',
   subtitle:
     'Tattoos have their own unique power and magic. They not only beautify the body but also the psyche.',
   btnText: 'read more',
