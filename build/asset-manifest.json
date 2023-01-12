@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tatto-Template/static/css/main.8958a6c1.css",
-    "main.js": "/Tatto-Template/static/js/main.71b41117.js",
+    "main.js": "/Tatto-Template/static/js/main.2b30aa57.js",
     "static/media/bg.jpg": "/Tatto-Template/static/media/bg.68c3d0ba0d3b84097d3e.jpg",
     "static/media/bg.png": "/Tatto-Template/static/media/bg.68f5f1a639f5898db5b5.png",
     "static/media/8.png": "/Tatto-Template/static/media/8.dc47892fcafd4c2f6dc2.png",
@@ -18,10 +18,10 @@
     "static/media/quote.svg": "/Tatto-Template/static/media/quote.b6c84129796166895505ca1a3ba52a66.svg",
     "index.html": "/Tatto-Template/index.html",
     "main.8958a6c1.css.map": "/Tatto-Template/static/css/main.8958a6c1.css.map",
-    "main.71b41117.js.map": "/Tatto-Template/static/js/main.71b41117.js.map"
+    "main.2b30aa57.js.map": "/Tatto-Template/static/js/main.2b30aa57.js.map"
   },
   "entrypoints": [
     "static/css/main.8958a6c1.css",
-    "static/js/main.71b41117.js"
+    "static/js/main.2b30aa57.js"
   ]
 }
